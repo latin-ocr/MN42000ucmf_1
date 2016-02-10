@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN42000ucmf_1_0047.png"; bbox 0 0 2237 3535; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 1563 834 1835">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 58 1563 834 1835">
+     <span class='ocr_line' id='line_1_1' title="bbox 58 1563 834 1634; baseline -0.001 -12"><span class='ocrx_word' id='word_1_1' title='bbox 58 1564 169 1625; x_wconf 63' lang='lat' dir='ltr'><strong>nomm</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 192 1563 333 1622; x_wconf 71' lang='lat' dir='ltr'><strong>Pfflmffl</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 355 1563 556 1625; x_wconf 71' lang='lat' dir='ltr'>O’SULLEVANI</span> <span class='ocrx_word' id='word_1_4' title='bbox 575 1565 704 1634; x_wconf 69' lang='lat' dir='ltr'><strong>BEAffl-u,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 726 1563 834 1623; x_wconf 66' lang='lat' dir='ltr'><strong>JBERM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 130 1725 760 1835; baseline -0.002 -35"><span class='ocrx_word' id='word_1_6' title='bbox 130 1726 318 1802; x_wconf 79' lang='lat' dir='ltr'><strong>HISTORIAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 346 1725 568 1835; x_wconf 73' lang='lat' dir='ltr'><strong>CATHOLIOAE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 591 1725 760 1802; x_wconf 78' lang='lat' dir='ltr'>[BERNIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 283 1887 716 1948">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 283 1887 716 1948">
+     <span class='ocr_line' id='line_1_3' title="bbox 283 1887 716 1948; baseline -0.009 0"><span class='ocrx_word' id='word_1_9' title='bbox 283 1887 602 1948; x_wconf 78' lang='lat' dir='ltr'>OOMPENDIUM.</span> <span class='ocrx_word' id='word_1_10' title='bbox 713 1934 716 1944; x_wconf 22' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1124 3535">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1124 3535">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1124 3535; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1124 3535; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
